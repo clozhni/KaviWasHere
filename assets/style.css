@@ -2657,7 +2657,7 @@ input.kavi-input-medium {
 .kavi-hero {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-image: url("/assets/images/Kavi_header.jpg");
+  background-image: url("assets/images/Kavi_header.jpg");
   background-position: center;
   background-size: cover; }
   .kavi-hero .kavi-button {
@@ -2668,7 +2668,7 @@ max-width: 100%;
 max-height: 98%;
 display: block;
 margin: auto;
-        background-image: url("/assets/images/thanks.png");
+        background-image: url("assets/images/thanks.png");
     }
 
 .kavi-section-dark .kavi-hero-link {
@@ -3326,8 +3326,7 @@ margin: auto;
     top: 0;
     transition: all 0.2s ease-in-out; }
 
-.kavi-hero {
-  background-image: url("/assets/images/Kavi_header.jpg") }
+
 
 .kavi-hero-callout .kavi-button {
   margin-top: 2em; }
