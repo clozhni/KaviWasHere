@@ -2654,10 +2654,13 @@ input.kavi-input-medium {
   .kavi-header-extended .kavi-megamenu {
     padding-left: 3rem; } }
 
+    .kavi-hero {
+      background-image: url('images/Kavi_header.jpg') }
+
 .kavi-hero {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-image: url("assets/images/Kavi_header.jpg");
+  background-image: url('images/Kavi_header.jpg');
   background-position: center;
   background-size: cover; }
   .kavi-hero .kavi-button {
