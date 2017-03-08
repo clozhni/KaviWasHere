@@ -2520,15 +2520,15 @@ input.kavi-input-medium {
 
 .kavi-logo-text {
   display: block;
-  font-size: 2.5rem;
+  font-size: 3rem;
   font-style: normal;
   font-weight: 700;
   margin: 0; }
   @media screen and (min-width: 951px) {
     .kavi-logo-text {
       display: block;
-      font-size: 2.4rem;
-      line-height: 1.3; } }
+      font-size: 3rem;
+      line-height: 2; } }
 
 .kavi-menu-btn {
   /* stylelint-disable declaration-block-no-ignored-properties */
@@ -2601,13 +2601,14 @@ input.kavi-input-medium {
     line-height: 1; } }
 @media screen and (min-width: 951px) {
   .kavi-header-extended .kavi-navbar {
-    max-width: 1500px;
+    max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
     padding-right: 3rem;
     padding-left: 3rem;
     display: block;
     height: auto;
+    max-width: 1040px;
     }
     .kavi-header-extended .kavi-navbar::after {
       clear: both;
@@ -2728,7 +2729,6 @@ margin: auto;
 .kavi-navbar {
   border-bottom: 1px solid #aeb0b5;
   background-color: #112e51;
-  width: 100%;
   height: 4rem; }
   @media screen and (min-width: 951px) {
     .kavi-navbar {
@@ -3381,6 +3381,7 @@ margin: auto;
 .site-header-navbar {
   border-bottom: none;
   background-color: #112e51;
+  width: 100%;
 }
   @media screen and (min-width: 951px) {
     .site-header-navbar {
