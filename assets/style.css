@@ -2609,6 +2609,7 @@ input.kavi-input-medium {
     display: block;
     height: auto;
     max-width: 1040px;
+    background-color: #112e51;
     }
     .kavi-header-extended .kavi-navbar::after {
       clear: both;
