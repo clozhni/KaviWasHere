@@ -2520,7 +2520,7 @@ input.kavi-input-medium {
 
 .kavi-logo-text {
   display: block;
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   font-style: normal;
   font-weight: 700;
   margin: 0; }
@@ -2601,14 +2601,14 @@ input.kavi-input-medium {
     line-height: 1; } }
 @media screen and (min-width: 951px) {
   .kavi-header-extended .kavi-navbar {
-    max-width: 1200px;
+    max-width: 1500px;
     margin-left: auto;
     margin-right: auto;
     padding-right: 3rem;
     padding-left: 3rem;
     display: block;
     height: auto;
-    max-width: 1040px; }
+    }
     .kavi-header-extended .kavi-navbar::after {
       clear: both;
       content: "";
@@ -2728,6 +2728,7 @@ margin: auto;
 .kavi-navbar {
   border-bottom: 1px solid #aeb0b5;
   background-color: #112e51;
+  width: 100%;
   height: 4rem; }
   @media screen and (min-width: 951px) {
     .kavi-navbar {
