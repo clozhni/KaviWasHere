@@ -2731,6 +2731,7 @@ margin: auto;
   height: 4rem; }
   @media screen and (min-width: 951px) {
     .kavi-navbar {
+     background-color: #112e51;
       border-bottom: none;
       display: inline-block;
       height: 10.3rem; } }
@@ -3377,9 +3378,12 @@ margin: auto;
       margin-bottom: 0; }
 
 .site-header-navbar {
-  border-bottom: none; }
+  border-bottom: none;
+  background-color: #112e51;
+}
   @media screen and (min-width: 951px) {
     .site-header-navbar {
+     background-color: #112e51;
       height: 8rem;
       width: 100%;
       display: block; } }
