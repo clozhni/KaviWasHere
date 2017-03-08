@@ -2486,6 +2486,7 @@ input.kavi-input-medium {
   margin-top: 0; }
 
 .kavi-header {
+  background-color: #112e51;
   width: 100%;
   z-index: 7000; }
   @media screen and (min-width: 951px) {
@@ -2617,6 +2618,7 @@ input.kavi-input-medium {
       display: block; } }
 @media screen and (min-width: 951px) {
   .kavi-header-extended .kavi-nav {
+   background-color: #112e51;
     border-top: 1px solid #aeb0b5;
     float: none;
     padding: 0;
@@ -2630,6 +2632,7 @@ input.kavi-input-medium {
     padding-left: 2rem;
     margin-top: -1px;
     max-width: 1040px;
+    background-color: #112e51;
     position: relative; }
     .kavi-header-extended .kavi-nav-inner::after {
       clear: both;
