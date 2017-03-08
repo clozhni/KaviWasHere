@@ -2727,6 +2727,7 @@ margin: auto;
 
 .kavi-navbar {
   border-bottom: 1px solid #aeb0b5;
+  background-color: #112e51;
   height: 4rem; }
   @media screen and (min-width: 951px) {
     .kavi-navbar {
