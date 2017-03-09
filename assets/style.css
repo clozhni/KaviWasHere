@@ -2594,8 +2594,8 @@ input.kavi-input-medium {
     border-bottom: none; } }
 @media screen and (min-width: 951px) {
   .kavi-header-extended .kavi-logo {
-    margin-top: 3rem;
-    margin-bottom: 3rem; } }
+    margin-top: -1rem;
+    margin-bottom: 2rem; } }
 @media screen and (min-width: 951px) {
   .kavi-header-extended em {
     font-size: 3.2rem;
