@@ -2297,8 +2297,7 @@ li.kavi-footer-primary-content {
     padding: 2rem 0; } }
 
 .kavi-footer-logo-img {
-  max-width:50%;
-   max-height:50% }
+  max-height: 30px;}
 
 .kavi-footer-slim-logo-img {
   float: left;
