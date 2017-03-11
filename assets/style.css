@@ -2520,16 +2520,16 @@ input.kavi-input-medium {
 
 .kavi-logo-text {
   display: block;
-  font-size: 3rem;
+  font-size: 1.5rem;
   font-style: normal;
   font-weight: 700;
   margin: 0; }
   @media screen and (min-width: 951px) {
     .kavi-logo-text {
       display: block;
-      font-size: 3rem;
+      font-size: 2.4rem;
       overflow: hidden;
-      line-height: 2; } }
+      line-height: 1.3; } }
 
 .kavi-menu-btn {
   /* stylelint-disable declaration-block-no-ignored-properties */
