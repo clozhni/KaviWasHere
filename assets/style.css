@@ -2528,6 +2528,7 @@ input.kavi-input-medium {
     .kavi-logo-text {
       display: block;
       font-size: 3rem;
+      overflow: hidden;
       line-height: 2; } }
 
 .kavi-menu-btn {
